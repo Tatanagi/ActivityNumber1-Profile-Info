@@ -1,0 +1,22 @@
+/* App.css */
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #87CEEB; 
+}
+
+.profile-grid {
+  display: flex;
+  justify-content: space-around; 
+  width: 100%;
+  max-width: 1000px; 
+}
